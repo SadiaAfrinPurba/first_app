@@ -1,6 +1,8 @@
-# first_app
+# Roll Dice App
 
 A new Flutter project.
+
+![Untitled video - Made with Clipchamp](https://github.com/SadiaAfrinPurba/roll_dice_app/assets/36800937/5485b9d8-289f-4664-9601-20212a7843b9)
 
 ## Getting Started
 
